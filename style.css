@@ -1,12 +1,5 @@
 
-/* body {
-    font-family: 'times new roman', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #fdfdfd;
-    color: #333;
-    width: 100%;
-} */
+/* <>header<> */
 .container {
     width: 90%;
     margin: 0 auto;
@@ -127,7 +120,7 @@
     text-decoration: none;
     font-weight: 500;
 }
-/* mmmm */
+/* <>thing<> */
 
 
   
@@ -202,7 +195,7 @@
  
   
 
-  /* bbbb */
+  /* <>country<> */
   
   .country {
            font-family: 'Roboto', sans-serif;
@@ -318,7 +311,7 @@
        }
  
 
-  
+  /* <>vacation<> */
 
 .country {
     font-family: 'Roboto', sans-serif;
@@ -331,19 +324,7 @@
     height: 100vh;
 }
 
-/* .country {
-    text-align: center;
-    position: relative;
-} */
 
-/* .title {
-    font-size: 102.5em;
-    font-weight: 700;
-    margin-bottom: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
 
 .title span {
     color: #ff6b3a;
@@ -433,7 +414,7 @@
 
 
 
-/* vvvvv */
+/* <>testimonial<> */
 
 .test {
     font-family: 'Arial', sans-serif;
@@ -524,7 +505,7 @@
    
 }
 
-/* <><> */
+/* <>Blogs<> */
 
 .blog {
     text-align: center;
@@ -576,7 +557,7 @@
     font-size: 12px;
 }
 
-
+/* <>footer<> */
 
 .footer {
     font-family: 'Roboto', sans-serif;
